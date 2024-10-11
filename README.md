@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/39dc1992-4a26-460b-ba2a-8338a770194a" alt="Адаптив преокта" style="border-radius: 15px"/>
+  <img src="https://github.com/user-attachments/assets/39dc1992-4a26-460b-ba2a-8338a770194a" alt="Адаптив преокта"/>
 </p>
 
 ![2](https://github.com/user-attachments/assets/7d2ae537-bc8b-4dd2-ae01-085bab35e4f5)
