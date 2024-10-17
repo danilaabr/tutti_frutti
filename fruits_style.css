@@ -3,12 +3,12 @@
 }
 
 @font-face {
-  font-family: 'Jura';
+  font-family: "Jura";
   src: url(fonts/Jura.ttf);
 }
 
 body {
-  font-family: 'Jura';
+  font-family: "Jura";
   min-width: 200px;
 }
 
@@ -51,7 +51,6 @@ html {
   padding-bottom: 10px;
 }
 
-
 .product-info {
   display: flex;
   justify-content: space-between;
@@ -77,9 +76,8 @@ html {
 footer {
   display: grid;
   align-items: center;
-  background: #EDEDED;
+  background: #ededed;
   padding: 5%;
-
 }
 
 footer p {
@@ -87,14 +85,14 @@ footer p {
   font-size: 24px;
   font-weight: 500;
   line-height: 28.39px;
-  color: #ABABAB;
+  color: #ababab;
 }
 
 header {
   display: grid;
   align-items: center;
-  padding-left: 9%;
-  padding-right: 9%;
+  margin-left: 8%;
+  margin-right: 8%;
   height: 150px;
 }
 
@@ -198,6 +196,10 @@ header {
     grid-template-columns: repeat(2, 1fr);
   }
 
+  header {
+    margin-left: 9%;
+    margin-right: 9%;
+  }
 }
 
 @media (max-width: 900px) {
@@ -208,7 +210,6 @@ header {
   .main-header {
     grid-template-columns: 0.4fr 1fr;
   }
-
 }
 
 @media (max-width: 740px) {
